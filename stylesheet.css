@@ -1,0 +1,31 @@
+body{
+   background-color:lightgray;
+}
+
+
+h1{
+    color:maroon;
+    background-color:mistyrose;
+    text-transform: capitalize;
+}
+p{
+    text-transform: capitalize;
+    color: gray;
+}
+ ul li a {
+    color:green;
+    background-color: beige;
+    list-style-type:decimal;
+}
+   h3{
+    color: gold;
+    background-color: bisque;
+    text-transform: capitalize;
+   }
+   ul{
+    color: darkslategray;
+   }
+
+
+
+    
